@@ -6,7 +6,7 @@ Config.HiddenCoords = vector4(956.16, 38.54, 116.36, 14.1) -- Hides your actual 
 Config.CamCoords = vector4(910.5, 47.56, 112.3, 6.67) -- Camera coordinates for character preview screen 
 Config.EnableDeleteButton = true -- Define if the player can delete the character or not
 
-Config.DefaultNumberOfCharacters = 2 -- Define maximum amount of default characters (maximum 5 characters defined by default)
+Config.DefaultNumberOfCharacters = 5 -- Define maximum amount of default characters (maximum 5 characters defined by default)
 Config.PlayersNumberOfCharacters = { -- Define maximum amount of player characters by rockstar license (you can find this license in your server's database in the player table)
     { license = "license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", numberOfChars = 2 },
 }
